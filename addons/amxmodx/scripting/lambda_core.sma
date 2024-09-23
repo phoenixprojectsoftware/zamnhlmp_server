@@ -73,7 +73,8 @@ enum _:MODS
 	HL,
 	OP4,
 	AG,
-	MINIAG
+	MINIAG,
+	PHOENIX
 }
 
 enum _:MOD_OFFSETS
@@ -340,6 +341,9 @@ public plugin_cfg()
 		set_mod_offsets(AG)
 		
 	else if(is_running("gearbox"))
+		set_mod_offsets(OP4)
+		
+	else if(is_running("zamnhlmp"))
 		set_mod_offsets(OP4)
 		
 	else
