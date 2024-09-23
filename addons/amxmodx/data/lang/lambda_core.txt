@@ -1,0 +1,10 @@
+[en]
+INFO = Lambda Core: Half-Life ingame Stats (v %s) by %s^nSay cmds:%s^nFor more information say /lcinfo
+ADV = Available say cmds:%s
+FILERANK = Your rank is %d of %d with %d kill(s), %d death(s), %d hit(s), %.2f%% %s eff. and %.2f%% %s acc.
+NORANK = You're not ranked yet
+NORANK2 = Player not ranked yet
+RANKSTATS = Player rank is %d of %d
+WIN = %s win this round with %d skillpoint(s) -> [%d kill(s) - %d death(s)] !!!
+NOWIN = No winner on this round
+SUICIDE = Committed suicide
